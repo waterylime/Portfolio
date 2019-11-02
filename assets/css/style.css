@@ -1,0 +1,167 @@
+body {
+	background-image: url("../images/[animepaper.net]wallpaper-standard-anime-princess-mononoke-forest-spirit-169334-sjade1-preview-65a9f3e4.jpg");
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+#navbar{
+    background-color: #d9f3f2;;
+    margin-bottom: 58px;
+    font-family:'Handlee', cursive;
+    margin-bottom: 45px;
+    color:rgb(145, 142, 142);
+}
+
+.nav-item{
+    color:rgb(145, 142, 142);
+    float: left;
+}
+
+#container{
+    background-color: rgb(248, 232, 237);
+    float: left;
+    padding-top: 30px;
+	width: 960px;
+	width: 960px;
+	/* margin: 45px; */
+	float: left;
+    /* margin-left: 85px; */
+    font-family:  'Handlee', cursive;
+    margin-top: 45px;
+    margin-bottom: 45px;
+    margin-left: 45px;
+}
+
+#text2{
+    font-family:  'Srisakdi', cursive; 
+    font-size: 15px;
+
+}
+/* footer{
+    background-color: rgb(253, 243, 231);
+    font-family:  'Handlee', cursive;
+    float: bottom;
+} */
+
+/* //CSS for About me */
+
+.info{
+    font-family:  'Srisakdi', cursive;
+    float: left;
+}
+
+#container2{
+    height: 250px;
+    width: 250px;
+    text-align: center;
+    background-color: rgb(253, 243, 231);
+    align-content: center;
+}
+#text2{
+    font-family:  'Srisakdi', cursive; 
+    font-size: 15px;
+
+}
+
+/* CSS for Contact page */
+
+.form-group {
+	width: 960px;
+    float: left;
+    font-family:'Handlee', cursive;
+}
+button {
+	background-color: #d9f3f2;
+	color: rgb(145, 142, 142);
+	height: 50px;
+	width: 70px;
+	font-size: 19px;
+    margin-left: 309px;
+    font-family:  'Srisakdi', cursive;
+    float: left;
+}
+
+
+.down {
+	display: block;
+	font-size: 25px;
+    padding-top: 25px;
+    font-family:  'Srisakdi', cursive;
+}
+
+.size {
+	height: 250px;
+	width: 880px;
+    margin-bottom: 25px;
+    font-family:  'Srisakdi', cursive;
+}
+
+.test {
+	height: 25px;
+    width: 880px;
+    font-family:  'Srisakdi', cursive;
+}
+
+.button{
+    align-content: center;
+}
+
+
+/* CSS for Portfolio page */
+.title{
+    font-family:  'Handlee', cursive;
+}
+
+.subtitle{
+    font-family:  'Srisakdi', cursive;  
+}
+#text{
+    font-family:  'Srisakdi', cursive; 
+    font-size: 15px;
+
+}
+
+#box1{
+    background-color:hsl(60, 52%, 94%);
+    height: 350px;
+    width: 450px;
+    margin-bottom: 45px;
+    margin-left: 25px;
+  
+}
+
+#text{
+    font-family:  'Srisakdi', cursive; 
+    font-size: 15px;
+    margin-bottom: 0px;
+}
+#box2{
+    background-color:hsl(240, 29%, 95%);
+    height: 350px;
+    width: 450px;
+    margin-top: 45px;
+    float: left;
+    margin-bottom: 45px;
+    margin-right: 45px;
+    margin-left: 25px;
+}
+/* 
+#box3{
+    background-color: rgb(253, 243, 231);
+    height: 650px;
+    width: 450px;
+    float: right;
+    margin-right: 45px;
+    align-items: right;
+} */
+
+.box4{
+    background-color: hsl(300, 41%, 95%);
+    height: 450px;
+    width: 750px;
+    margin: 45px;
+    float: right;
+
+    /* float: bottom; */
+}
+
