@@ -9,4 +9,4 @@ $('#img1').mouseout( function (){
 
 
 
-    $('.dropdown-menu').toggle
+    

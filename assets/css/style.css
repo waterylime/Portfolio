@@ -15,6 +15,7 @@ body {
 .nav-item{
     color:rgb(145, 142, 142);
     float: left;
+    
 }
 
 #container{
@@ -30,25 +31,24 @@ body {
     margin-top: 45px;
     margin-bottom: 45px;
     margin-left: 45px;
+    font-size: 25px;
 }
 
 #text2{
-    font-family:  'Srisakdi', cursive; 
+    font-family:'Handlee', cursive;
     font-size: 15px;
 
 }
-/* footer{
-    background-color: rgb(253, 243, 231);
-    font-family:  'Handlee', cursive;
-    float: bottom;
-} */
+
 
 /* //CSS for About me */
 
 .info{
     font-family:  'Srisakdi', cursive;
     float: left;
+    text-align: wrap;
 }
+
 
 #container2{
     height: 250px;
@@ -74,7 +74,7 @@ button {
 	background-color: #d9f3f2;
 	color: rgb(145, 142, 142);
 	height: 50px;
-	width: 70px;
+	width: 80px;
 	font-size: 19px;
     margin-left: 309px;
     font-family:  'Srisakdi', cursive;
@@ -86,7 +86,7 @@ button {
 	display: block;
 	font-size: 25px;
     padding-top: 25px;
-    font-family:  'Srisakdi', cursive;
+    font-family:'Handlee', cursive;
 }
 
 .size {
@@ -161,6 +161,7 @@ button {
     width: 750px;
     margin: 45px;
     float: right;
+   align-items: top;
 
     /* float: bottom; */
 }
