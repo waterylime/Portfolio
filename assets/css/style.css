@@ -41,6 +41,9 @@ body {
     color: black;
 
 }
+.title{
+    font-weight: bold;
+}
 
 
 /* //CSS for About me */
@@ -64,7 +67,7 @@ body {
 #text2{
     /* font-family:  'Srisakdi', cursive;  */
     font-family: 'Gorditas', cursive;
-    font-size: 15px;
+    font-size: 17px;
 
 }
 
